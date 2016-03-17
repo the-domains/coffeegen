@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Coffeegen]]></title>
+        <description><![CDATA[Coffeegen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 21:17:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>How your coffee is going to taste was determined before the beans were roasted by the nutrients in the soil, the varietal of the plant, the weather during the season, the aspect of the slope, the insects that nibbled at it, the method of processing and the skill and attention of the farmer who processed it.
+We'll explore agronomy in three sections: varietal, terroir and processing.</p>]]></description>
+            <link>undefinedhow-your-coffee-is-going-to-taste-was-determined-before-the/index.html</link>
+            <guid isPermaLink="false">d749ed43-7b67-4367-b415-2d94a05c47e2</guid>
+            <pubDate>Thu, 17 Mar 2016 21:17:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
