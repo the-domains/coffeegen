@@ -1,0 +1,28 @@
+name: Coffeegen
+favicon: null
+layout_spectrum: 0.7092003768775612
+typography_spectrum: 0.9652692270465195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7560430851299316
+  lightness: 0.7114787604659796
+  saturation: 0.040177721763029695
+  rhythmicContrast: 0.576095306314528
+purpose: []
